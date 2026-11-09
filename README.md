@@ -1,6 +1,6 @@
 # Hyunseok Kim — Robotics portfolio
 
-Live site: https://hyunseokkkkkk.github.io/
+Live site: https://hyuns-kim.github.io/
 
 A static academic homepage with a short About, six recorded highlights, news,
 and a filterable list of five research projects. The layout follows the light,

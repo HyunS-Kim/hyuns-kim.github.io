@@ -4,15 +4,15 @@
     "description": "Public GitHub profile photograph"
   },
   "gcs": {
-    "source": "https://github.com/HYUNSEOKKKKKK/Humanoid_Footstep_Planning_GCS/tree/main/website/dist/assets",
+    "source": "https://github.com/HyunS-Kim/Humanoid_Footstep_Planning_GCS/tree/main/website/dist/assets",
     "description": "Original published 16-second TORO teaser and poster; copied unchanged"
   },
   "piper": {
-    "source": "https://github.com/HYUNSEOKKKKKK/Piper_manipulation/blob/main/assets/feed_auto_run.gif",
+    "source": "https://github.com/HyunS-Kim/Piper_manipulation/blob/main/assets/feed_auto_run.gif",
     "description": "Project-owned continuous four-transfer run. GIF transcoded to muted H.264; same frames and 4x playback."
   },
   "hopper": {
-    "source": "https://github.com/HYUNSEOKKKKKK/Hopper_Nature/blob/withDHALOneLeg/assets/demos/outdoor-trial.gif",
+    "source": "https://github.com/HyunS-Kim/Hopper_Nature/blob/withDHALOneLeg/assets/demos/outdoor-trial.gif",
     "description": "Project-owned outdoor trial, source interval 2–10 seconds at 1×, followed by the indoor-trial source interval 20–30 seconds at 1×. Concatenated into one 18-second, muted H.264 preview at 640×360 and 30 fps. Outdoor operators and indoor rolling test frame remain visible; full recordings remain linked from the repository."
   },
   "kaist_humanoid": {
@@ -47,7 +47,7 @@
     "sha256": "22943f2c31a41f3c194d59eef7484b68ba1e591c327be9314605931a99cbff54"
   },
   "hopper_indoor": {
-    "source": "https://github.com/HYUNSEOKKKKKK/Hopper_Nature/blob/withDHALOneLeg/assets/demos/indoor-trial.mp4",
+    "source": "https://github.com/HyunS-Kim/Hopper_Nature/blob/withDHALOneLeg/assets/demos/indoor-trial.mp4",
     "description": "Recorded indoor trial with a rolling test frame and nearby operators. Original 20–30 second interval, 1× speed, muted H.264 at 640-pixel width. Poster extracted at preview time 3 seconds."
   },
   "hopper-indoor-preview": {
