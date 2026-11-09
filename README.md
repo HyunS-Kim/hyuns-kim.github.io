@@ -2,12 +2,6 @@
 
 Live site: https://hyuns-kim.github.io/
 
-A static academic homepage with a short About, six recorded highlights, news,
-and a filterable list of five research projects. The layout follows the light,
-compact academic format of [Xuxin Cheng's homepage](https://xuxin.ai/).
-All research descriptions, photos, and recordings refer to Hyunseok's projects
-or the explicitly labelled DRCD Lab collaboration.
-
 ## Edit the homepage
 
 - `index.html`: biography, education and experience, highlights, news, project
